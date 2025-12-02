@@ -1,3 +1,3 @@
-https://github.com/ilkaxd/posmotri_v_okno
+https://github.com/KristenW1987/posmotri_v_okno
 
 Верстаем одностраничный сайт с псевдоэлементами
